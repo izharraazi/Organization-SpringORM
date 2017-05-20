@@ -1,0 +1,13 @@
+com\lab2\dao\impl\HibernateOrganizationDao.class
+com\lab2\controller\OrganizationController.class
+com\lab2\SpringRestOrmMvcApplication.class
+com\lab2\domain\Person.class
+com\lab2\controller\PersonController.class
+com\lab2\dao\impl\HibernateFriendshipDao.class
+com\lab2\dao\OrganizationDao.class
+com\lab2\domain\Organization.class
+com\lab2\dao\FriendshipDao.class
+com\lab2\controller\FriendshipController.class
+com\lab2\dao\impl\HibernatePersonDao.class
+com\lab2\dao\PersonDao.class
+com\lab2\domain\Address.class

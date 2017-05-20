@@ -1,0 +1,13 @@
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\domain\Address.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\domain\Person.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\controller\FriendshipController.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\dao\PersonDao.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\controller\PersonController.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\SpringRestOrmMvcApplication.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\dao\impl\HibernateOrganizationDao.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\dao\impl\HibernatePersonDao.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\controller\OrganizationController.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\dao\FriendshipDao.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\domain\Organization.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\dao\OrganizationDao.java
+G:\wssem2\Spring-REST_ORM-MVC\src\main\java\com\lab2\dao\impl\HibernateFriendshipDao.java
